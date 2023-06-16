@@ -1,5 +1,4 @@
 Some Mac icons I designed here and there.
-# Peek
 
 ## Miscellaneous
 <img width="250" alt="UT" src="https://github.com/tripasect/mac-icons/assets/59469654/7c8a7ca6-7a30-4754-b1f7-b4104dd922da">
