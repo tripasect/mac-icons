@@ -1,8 +1,8 @@
 # mac-icons
 Some Mac icons I designed here and there.
 # Peek
-![University of Tehran MacOS Folder](https://github.com/tripasect/mac-icons/assets/59469654/7c8a7ca6-7a30-4754-b1f7-b4104dd922da)
 
+<img width="300" alt="UT" src="https://github.com/tripasect/mac-icons/assets/59469654/7c8a7ca6-7a30-4754-b1f7-b4104dd922da">
 <img width="300" alt="Globe" src="https://github.com/tripasect/mac-icons/assets/59469654/905626e4-ca1f-4909-b7f2-a0e22de815f2">
 <img width="300" alt="Brain" src="https://github.com/tripasect/mac-icons/assets/59469654/cd9d7a29-2717-44ff-88a6-655f08e96319">
 <img width="300" alt="Musique" src="https://github.com/tripasect/mac-icons/assets/59469654/85fca5b3-7f64-43f0-87d0-1784fb543376">
