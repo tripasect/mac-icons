@@ -1,4 +1,3 @@
-mac-icons
 Some Mac icons I designed here and there.
 # Peek
 
