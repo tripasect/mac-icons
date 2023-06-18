@@ -16,5 +16,6 @@ Some Mac icons I designed here and there.
 # Classic
 <img width="250" alt="F-university!" src="https://github.com/tripasect/mac-icons/assets/59469654/bb7f5fa8-5ddd-4998-8631-397a65b8ff8a">
 <img width="250" alt="F-warehouse" src="https://github.com/tripasect/mac-icons/assets/59469654/6eab5905-6e45-4ae7-b18e-6a55e517bf99">
+<br>
 <img width="250" alt="F-math" src="https://github.com/tripasect/mac-icons/assets/59469654/4ea6f6fc-ff25-40f6-a632-4fb6d46c273d">
 <img width="250" alt="F-music" src="https://github.com/tripasect/mac-icons/assets/59469654/37a6549e-79cb-4658-a45c-8c950846c565">
