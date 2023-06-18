@@ -2,7 +2,7 @@ Some Mac icons I designed here and there.
 
 # Miscellaneous
 <img width="250" alt="UT" src="https://github.com/tripasect/mac-icons/assets/59469654/7c8a7ca6-7a30-4754-b1f7-b4104dd922da">
-<img width="250" alt="Logic" src="https://github.com/tripasect/mac-icons/assets/59469654/ad824f9b-ef31-4d6a-8c66-2285b3909066">
+<img width="300" alt="Logic" src="https://github.com/tripasect/mac-icons/assets/59469654/ad824f9b-ef31-4d6a-8c66-2285b3909066">
 <br>
 
 # Futuristic - New
