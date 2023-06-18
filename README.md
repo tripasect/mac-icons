@@ -8,6 +8,7 @@ Some Mac icons I designed here and there.
 # Modern
 <img width="250" alt="Globe" src="https://github.com/tripasect/mac-icons/assets/59469654/905626e4-ca1f-4909-b7f2-a0e22de815f2">
 <img width="250" alt="Brain" src="https://github.com/tripasect/mac-icons/assets/59469654/cd9d7a29-2717-44ff-88a6-655f08e96319">
+<br>
 <img width="250" alt="musique" src="https://github.com/tripasect/mac-icons/assets/59469654/ea24dca0-73da-46fc-a669-e46841a4440e">
 <img width="250" alt="watch" src="https://github.com/tripasect/mac-icons/assets/59469654/54559252-b743-4c49-af99-7acc4f6da20d">
 
